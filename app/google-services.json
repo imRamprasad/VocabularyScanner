@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "305053828424",
+    "project_id": "com-hostel-vocabularyscanner",
+    "storage_bucket": "com-hostel-vocabularyscanner.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305053828424:android:67afa9dc6b68595455df7d",
+        "android_client_info": {
+          "package_name": "com.hostel.vocabularyscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305053828424-21slcpl6kqn34qotepdim05cjfp57log.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hostel.vocabularyscanner",
+            "certificate_hash": "2fdba8af371d4a03d3048182ac6d56e4caffd066"
+          }
+        },
+        {
+          "client_id": "305053828424-05fjb9u8jcl80jqsd48oup4k278vooli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR5QrQ3m0CLjRzx2GA-uam95IQfEeqlLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305053828424-05fjb9u8jcl80jqsd48oup4k278vooli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

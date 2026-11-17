@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VocabularyScanner</string>
+    <string name="default_web_client_id" translatable="false">305053828424-05fjb9u8jcl80jqsd48oup4k278vooli.apps.googleusercontent.com</string>
+</resources>
